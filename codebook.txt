@@ -1,0 +1,3 @@
+File contains  independent tidy data set with the average of 79 variables for each activity and each subject.
+Data are grouped by first two columns: subject and activity_label.
+Activity_label: contains 6 values: laying, sitting, standing, walking, walking_downstairs, walking_upstairs
